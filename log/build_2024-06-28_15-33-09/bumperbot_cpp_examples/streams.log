@@ -1,0 +1,29 @@
+[0.022s] Invoking command in '/home/two-asus/ros2_ws/build/bumperbot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/two-asus/ros2_ws/install/bumperbot_py_examples:/home/two-asus/ros2_ws/install/bumperbot_py_example:/opt/ros/humble /usr/bin/cmake --build /home/two-asus/ros2_ws/build/bumperbot_cpp_examples -- -j16 -l16
+[0.077s] [35m[1mConsolidate compiler generated dependencies of target simple_publisher[0m
+[0.077s] [35m[1mConsolidate compiler generated dependencies of target simple_parameter[0m
+[0.077s] [35m[1mConsolidate compiler generated dependencies of target simple_subscriber[0m
+[0.105s] [100%] Built target simple_parameter
+[0.106s] [100%] Built target simple_publisher
+[0.106s] [100%] Built target simple_subscriber
+[0.208s] Invoked command in '/home/two-asus/ros2_ws/build/bumperbot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/two-asus/ros2_ws/install/bumperbot_py_examples:/home/two-asus/ros2_ws/install/bumperbot_py_example:/opt/ros/humble /usr/bin/cmake --build /home/two-asus/ros2_ws/build/bumperbot_cpp_examples -- -j16 -l16
+[0.237s] Invoking command in '/home/two-asus/ros2_ws/build/bumperbot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/two-asus/ros2_ws/install/bumperbot_py_examples:/home/two-asus/ros2_ws/install/bumperbot_py_example:/opt/ros/humble /usr/bin/cmake --install /home/two-asus/ros2_ws/build/bumperbot_cpp_examples
+[0.243s] -- Install configuration: ""
+[0.244s] -- Up-to-date: /home/two-asus/ros2_ws/install/bumperbot_cpp_examples/lib/bumperbot_cpp_examples/simple_publisher
+[0.244s] -- Up-to-date: /home/two-asus/ros2_ws/install/bumperbot_cpp_examples/lib/bumperbot_cpp_examples/simple_subscriber
+[0.245s] -- Up-to-date: /home/two-asus/ros2_ws/install/bumperbot_cpp_examples/lib/bumperbot_cpp_examples/simple_parameter
+[0.245s] -- Up-to-date: /home/two-asus/ros2_ws/install/bumperbot_cpp_examples/share/ament_index/resource_index/package_run_dependencies/bumperbot_cpp_examples
+[0.245s] -- Up-to-date: /home/two-asus/ros2_ws/install/bumperbot_cpp_examples/share/ament_index/resource_index/parent_prefix_path/bumperbot_cpp_examples
+[0.245s] -- Up-to-date: /home/two-asus/ros2_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/environment/ament_prefix_path.sh
+[0.245s] -- Up-to-date: /home/two-asus/ros2_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/environment/ament_prefix_path.dsv
+[0.245s] -- Up-to-date: /home/two-asus/ros2_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/environment/path.sh
+[0.245s] -- Up-to-date: /home/two-asus/ros2_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/environment/path.dsv
+[0.245s] -- Up-to-date: /home/two-asus/ros2_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/local_setup.bash
+[0.245s] -- Up-to-date: /home/two-asus/ros2_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/local_setup.sh
+[0.245s] -- Up-to-date: /home/two-asus/ros2_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/local_setup.zsh
+[0.245s] -- Up-to-date: /home/two-asus/ros2_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/local_setup.dsv
+[0.245s] -- Installing: /home/two-asus/ros2_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/package.dsv
+[0.246s] -- Up-to-date: /home/two-asus/ros2_ws/install/bumperbot_cpp_examples/share/ament_index/resource_index/packages/bumperbot_cpp_examples
+[0.246s] -- Up-to-date: /home/two-asus/ros2_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/cmake/bumperbot_cpp_examplesConfig.cmake
+[0.246s] -- Up-to-date: /home/two-asus/ros2_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/cmake/bumperbot_cpp_examplesConfig-version.cmake
+[0.246s] -- Up-to-date: /home/two-asus/ros2_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/package.xml
+[0.248s] Invoked command in '/home/two-asus/ros2_ws/build/bumperbot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/two-asus/ros2_ws/install/bumperbot_py_examples:/home/two-asus/ros2_ws/install/bumperbot_py_example:/opt/ros/humble /usr/bin/cmake --install /home/two-asus/ros2_ws/build/bumperbot_cpp_examples

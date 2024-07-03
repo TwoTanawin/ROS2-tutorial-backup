@@ -1,0 +1,23 @@
+[0.484s] Invoking command in '/home/two-asus/ros2_ws/build/bumperbot_py_example': PYTHONPATH=/home/two-asus/ros2_ws/build/bumperbot_py_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/two-asus/ros2_ws/install/bumperbot_py_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/two-asus/ros2_ws/build/bumperbot_py_example/build --no-deps symlink_data --force
+[0.667s] running develop
+[0.668s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.668s]   warnings.warn(
+[0.784s] running egg_info
+[0.784s] writing bumperbot_py_example.egg-info/PKG-INFO
+[0.784s] writing dependency_links to bumperbot_py_example.egg-info/dependency_links.txt
+[0.784s] writing entry points to bumperbot_py_example.egg-info/entry_points.txt
+[0.784s] writing requirements to bumperbot_py_example.egg-info/requires.txt
+[0.784s] writing top-level names to bumperbot_py_example.egg-info/top_level.txt
+[0.785s] reading manifest file 'bumperbot_py_example.egg-info/SOURCES.txt'
+[0.786s] writing manifest file 'bumperbot_py_example.egg-info/SOURCES.txt'
+[0.787s] running build_ext
+[0.787s] Creating /home/two-asus/ros2_ws/install/bumperbot_py_example/lib/python3.10/site-packages/bumperbot-py-example.egg-link (link to .)
+[0.787s] Installing simple_parameter script to /home/two-asus/ros2_ws/install/bumperbot_py_example/lib/bumperbot_py_example
+[0.788s] Installing simple_publisher script to /home/two-asus/ros2_ws/install/bumperbot_py_example/lib/bumperbot_py_example
+[0.788s] Installing simple_subscriber script to /home/two-asus/ros2_ws/install/bumperbot_py_example/lib/bumperbot_py_example
+[0.788s] 
+[0.788s] Installed /home/two-asus/ros2_ws/build/bumperbot_py_example
+[0.788s] running symlink_data
+[0.788s] symbolically linking /home/two-asus/ros2_ws/build/bumperbot_py_example/resource/bumperbot_py_example -> /home/two-asus/ros2_ws/install/bumperbot_py_example/share/ament_index/resource_index/packages
+[0.788s] symbolically linking /home/two-asus/ros2_ws/build/bumperbot_py_example/package.xml -> /home/two-asus/ros2_ws/install/bumperbot_py_example/share/bumperbot_py_example
+[0.808s] Invoked command in '/home/two-asus/ros2_ws/build/bumperbot_py_example' returned '0': PYTHONPATH=/home/two-asus/ros2_ws/build/bumperbot_py_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/two-asus/ros2_ws/install/bumperbot_py_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/two-asus/ros2_ws/build/bumperbot_py_example/build --no-deps symlink_data --force

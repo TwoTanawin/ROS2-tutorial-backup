@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/two-asus/ros2_ws/build/bumperbot_cpp_examples/simple_publisher" "/home/two-asus/ros2_ws/build/bumperbot_cpp_examples/simple_subscriber" "/home/two-asus/ros2_ws/build/bumperbot_cpp_examples/simple_parameter" "TARGETS" "simple_publisher" "simple_subscriber" "simple_parameter" "DESTINATION" "lib/bumperbot_cpp_examples")

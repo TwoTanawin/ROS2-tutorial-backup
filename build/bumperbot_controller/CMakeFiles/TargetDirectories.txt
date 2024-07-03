@@ -1,0 +1,12 @@
+/home/two-asus/ros2_ws/build/bumperbot_controller/CMakeFiles/uninstall.dir
+/home/two-asus/ros2_ws/build/bumperbot_controller/CMakeFiles/bumperbot_controller_uninstall.dir
+/home/two-asus/ros2_ws/build/bumperbot_controller/CMakeFiles/simple_controller.dir
+/home/two-asus/ros2_ws/build/bumperbot_controller/CMakeFiles/ament_cmake_python_symlink_bumperbot_controller.dir
+/home/two-asus/ros2_ws/build/bumperbot_controller/CMakeFiles/ament_cmake_python_build_bumperbot_controller_egg.dir
+/home/two-asus/ros2_ws/build/bumperbot_controller/CMakeFiles/test.dir
+/home/two-asus/ros2_ws/build/bumperbot_controller/CMakeFiles/edit_cache.dir
+/home/two-asus/ros2_ws/build/bumperbot_controller/CMakeFiles/rebuild_cache.dir
+/home/two-asus/ros2_ws/build/bumperbot_controller/CMakeFiles/list_install_components.dir
+/home/two-asus/ros2_ws/build/bumperbot_controller/CMakeFiles/install.dir
+/home/two-asus/ros2_ws/build/bumperbot_controller/CMakeFiles/install/local.dir
+/home/two-asus/ros2_ws/build/bumperbot_controller/CMakeFiles/install/strip.dir

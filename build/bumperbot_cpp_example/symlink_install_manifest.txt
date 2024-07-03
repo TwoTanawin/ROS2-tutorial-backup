@@ -1,0 +1,15 @@
+/home/two-asus/ros2_ws/install/bumperbot_cpp_example/share/ament_index/resource_index/package_run_dependencies/bumperbot_cpp_example
+/home/two-asus/ros2_ws/install/bumperbot_cpp_example/share/ament_index/resource_index/parent_prefix_path/bumperbot_cpp_example
+/home/two-asus/ros2_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/environment/ament_prefix_path.sh
+/home/two-asus/ros2_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/environment/ament_prefix_path.dsv
+/home/two-asus/ros2_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/environment/path.sh
+/home/two-asus/ros2_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/environment/path.dsv
+/home/two-asus/ros2_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/local_setup.bash
+/home/two-asus/ros2_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/local_setup.sh
+/home/two-asus/ros2_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/local_setup.zsh
+/home/two-asus/ros2_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/local_setup.dsv
+/home/two-asus/ros2_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/package.dsv
+/home/two-asus/ros2_ws/install/bumperbot_cpp_example/share/ament_index/resource_index/packages/bumperbot_cpp_example
+/home/two-asus/ros2_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/cmake/bumperbot_cpp_exampleConfig.cmake
+/home/two-asus/ros2_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/cmake/bumperbot_cpp_exampleConfig-version.cmake
+/home/two-asus/ros2_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/package.xml

@@ -1,0 +1,27 @@
+[0.549s] Invoking command in '/home/two-asus/ros2_ws/src/bumperbot_py_example': PYTHONPATH=/home/two-asus/ros2_ws/build/bumperbot_py_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/two-asus/ros2_ws/install/bumperbot_py_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bumperbot_py_example build --build-base /home/two-asus/ros2_ws/build/bumperbot_py_example/build install --record /home/two-asus/ros2_ws/build/bumperbot_py_example/install.log --single-version-externally-managed install_data
+[0.707s] running egg_info
+[0.708s] writing ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/PKG-INFO
+[0.711s] writing dependency_links to ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/dependency_links.txt
+[0.711s] writing entry points to ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/entry_points.txt
+[0.711s] writing requirements to ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/requires.txt
+[0.712s] writing top-level names to ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/top_level.txt
+[0.713s] reading manifest file '../../build/bumperbot_py_example/bumperbot_py_example.egg-info/SOURCES.txt'
+[0.714s] writing manifest file '../../build/bumperbot_py_example/bumperbot_py_example.egg-info/SOURCES.txt'
+[0.714s] running build
+[0.714s] running build_py
+[0.714s] copying bumperbot_py_example/simple_turtlesim_kinematics.py -> /home/two-asus/ros2_ws/build/bumperbot_py_example/build/lib/bumperbot_py_example
+[0.715s] running install
+[0.715s] running install_lib
+[0.715s] copying /home/two-asus/ros2_ws/build/bumperbot_py_example/build/lib/bumperbot_py_example/simple_turtlesim_kinematics.py -> /home/two-asus/ros2_ws/install/bumperbot_py_example/lib/python3.10/site-packages/bumperbot_py_example
+[0.716s] byte-compiling /home/two-asus/ros2_ws/install/bumperbot_py_example/lib/python3.10/site-packages/bumperbot_py_example/simple_turtlesim_kinematics.py to simple_turtlesim_kinematics.cpython-310.pyc
+[0.716s] running install_data
+[0.717s] running install_egg_info
+[0.718s] removing '/home/two-asus/ros2_ws/install/bumperbot_py_example/lib/python3.10/site-packages/bumperbot_py_example-0.0.0-py3.10.egg-info' (and everything under it)
+[0.718s] Copying ../../build/bumperbot_py_example/bumperbot_py_example.egg-info to /home/two-asus/ros2_ws/install/bumperbot_py_example/lib/python3.10/site-packages/bumperbot_py_example-0.0.0-py3.10.egg-info
+[0.719s] running install_scripts
+[0.733s] Installing simple_parameter script to /home/two-asus/ros2_ws/install/bumperbot_py_example/lib/bumperbot_py_example
+[0.733s] Installing simple_publisher script to /home/two-asus/ros2_ws/install/bumperbot_py_example/lib/bumperbot_py_example
+[0.733s] Installing simple_subscriber script to /home/two-asus/ros2_ws/install/bumperbot_py_example/lib/bumperbot_py_example
+[0.733s] Installing simple_turtlesim_kinematics script to /home/two-asus/ros2_ws/install/bumperbot_py_example/lib/bumperbot_py_example
+[0.733s] writing list of installed files to '/home/two-asus/ros2_ws/build/bumperbot_py_example/install.log'
+[0.749s] Invoked command in '/home/two-asus/ros2_ws/src/bumperbot_py_example' returned '0': PYTHONPATH=/home/two-asus/ros2_ws/build/bumperbot_py_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/two-asus/ros2_ws/install/bumperbot_py_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bumperbot_py_example build --build-base /home/two-asus/ros2_ws/build/bumperbot_py_example/build install --record /home/two-asus/ros2_ws/build/bumperbot_py_example/install.log --single-version-externally-managed install_data

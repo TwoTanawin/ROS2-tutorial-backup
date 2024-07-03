@@ -1,0 +1,23 @@
+[0.482s] Invoking command in '/home/two-asus/ros2_ws/src/bumperbot_py_example': PYTHONPATH=/home/two-asus/ros2_ws/build/bumperbot_py_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/two-asus/ros2_ws/install/bumperbot_py_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bumperbot_py_example build --build-base /home/two-asus/ros2_ws/build/bumperbot_py_example/build install --record /home/two-asus/ros2_ws/build/bumperbot_py_example/install.log --single-version-externally-managed install_data
+[0.653s] running egg_info
+[0.653s] writing ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/PKG-INFO
+[0.653s] writing dependency_links to ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/dependency_links.txt
+[0.653s] writing entry points to ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/entry_points.txt
+[0.654s] writing requirements to ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/requires.txt
+[0.654s] writing top-level names to ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/top_level.txt
+[0.655s] reading manifest file '../../build/bumperbot_py_example/bumperbot_py_example.egg-info/SOURCES.txt'
+[0.655s] writing manifest file '../../build/bumperbot_py_example/bumperbot_py_example.egg-info/SOURCES.txt'
+[0.655s] running build
+[0.655s] running build_py
+[0.656s] running install
+[0.656s] running install_lib
+[0.657s] running install_data
+[0.657s] running install_egg_info
+[0.658s] removing '/home/two-asus/ros2_ws/install/bumperbot_py_example/lib/python3.10/site-packages/bumperbot_py_example-0.0.0-py3.10.egg-info' (and everything under it)
+[0.658s] Copying ../../build/bumperbot_py_example/bumperbot_py_example.egg-info to /home/two-asus/ros2_ws/install/bumperbot_py_example/lib/python3.10/site-packages/bumperbot_py_example-0.0.0-py3.10.egg-info
+[0.659s] running install_scripts
+[0.674s] Installing simple_parameter script to /home/two-asus/ros2_ws/install/bumperbot_py_example/lib/bumperbot_py_example
+[0.674s] Installing simple_publisher script to /home/two-asus/ros2_ws/install/bumperbot_py_example/lib/bumperbot_py_example
+[0.674s] Installing simple_subscriber script to /home/two-asus/ros2_ws/install/bumperbot_py_example/lib/bumperbot_py_example
+[0.674s] writing list of installed files to '/home/two-asus/ros2_ws/build/bumperbot_py_example/install.log'
+[0.694s] Invoked command in '/home/two-asus/ros2_ws/src/bumperbot_py_example' returned '0': PYTHONPATH=/home/two-asus/ros2_ws/build/bumperbot_py_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/two-asus/ros2_ws/install/bumperbot_py_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bumperbot_py_example build --build-base /home/two-asus/ros2_ws/build/bumperbot_py_example/build install --record /home/two-asus/ros2_ws/build/bumperbot_py_example/install.log --single-version-externally-managed install_data

@@ -1,0 +1,1 @@
+/home/two-asus/ros2_ws/build/my_robot_description_v2/ament_cmake_environment_hooks/local_setup.sh
